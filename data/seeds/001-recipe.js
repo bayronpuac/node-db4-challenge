@@ -10,5 +10,4 @@ exports.seed = function(knex) {
         {id: 4, name: 'wings'}
       ]);
     });
- };
-
+};
